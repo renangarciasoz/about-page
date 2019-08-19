@@ -1,7 +1,7 @@
 {
   "name": "about-page",
-  "version": "0.0.0",
-  "description": "",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">   About Page Lib </h1>",
   "main": "lib/index.js",
   "module": "es/index.js",
   "jsnext:main": "es/index.js",
@@ -63,5 +63,20 @@
     "style-loader": "^0.18.2",
     "webpack": "^3.6.0",
     "webpack-dev-server": "^2.8.2"
-  }
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renangarciasoz/about-page.git"
+  },
+  "author": "renangarciasoz <renangarciasoz@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renangarciasoz/about-page/issues"
+  },
+  "homepage": "https://github.com/renangarciasoz/about-page#readme"
 }
